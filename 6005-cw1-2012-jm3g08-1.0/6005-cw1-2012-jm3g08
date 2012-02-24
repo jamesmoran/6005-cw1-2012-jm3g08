@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /usr/share/6005-cw1-2012-jm3g08
+php ./index.php
+cd -
